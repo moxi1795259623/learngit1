@@ -1,2 +1,6 @@
 hello~ success嘻嘻
-创建一个分支+simple
+<<<<<<< HEAD
+=======
+switch to a new branch feature1
+switch to a new branch feature1
+>>>>>>> feature1
