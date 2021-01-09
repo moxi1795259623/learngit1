@@ -1,6 +1,2 @@
 hello~ success嘻嘻
-<<<<<<< HEAD
-=======
 switch to a new branch feature1
-switch to a new branch feature1
->>>>>>> feature1
